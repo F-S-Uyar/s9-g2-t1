@@ -8,5 +8,6 @@ module.exports = {
         normal: '#ffd9d4',
     },
   },
-  plugins: [],
-};
+},
+plugins: [],
+}
